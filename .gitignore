@@ -1,0 +1,14 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets (tokens must never be committed)
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
